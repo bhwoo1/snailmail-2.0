@@ -24,6 +24,4 @@ React, TypeScript, Recoil, Tailwnd CSS
 
 ---
 
-[상세 설명](https://bhwoo1.github.io/projects/snailmail)
-
 
